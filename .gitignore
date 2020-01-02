@@ -102,5 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 dist
 .vscode
+=======
+>>>>>>> 9561428694aa5d9b0ac2025de5fec5c27a51ae62
